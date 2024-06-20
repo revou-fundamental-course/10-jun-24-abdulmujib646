@@ -5,7 +5,7 @@ function convertCelsiusToFahrenheit() {
     document.getElementById("fahrenheit").value = "Error";
     document.getElementById("calculate").value = "Error";
 
-    alert("Input invalid (Input Kembali Dengan Benar");
+    alert("Input invalid (Input Kembali Dengan Benar)");
     return;
   }
   celsius = parseFloat(celsius);
